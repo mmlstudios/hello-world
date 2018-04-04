@@ -1,4 +1,4 @@
 # hello-world
-itz a me, Mario
+itz a me, luigi
 
-blue pants, red hat. You know me
+blue pants, green hat. You know me
